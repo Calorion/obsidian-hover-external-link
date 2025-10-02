@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/13353733/130523291-99b6c6c3-24f4-4729-
 
 ### From in Obsidian
 
-🚧 Coming Soon! 🚧
+[obsidian://show-plugin?id=hover-external-link](obsidian://show-plugin?id=hover-external-link)
 
 ### Manually
 
